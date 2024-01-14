@@ -10,7 +10,7 @@ h1 {
   color: black;
   background-color: white;
   border: none;
-  font-size: 72px
+  font-size: 200px
 }
 
 p {
@@ -27,7 +27,9 @@ navbar {
 /* Style the links inside the navigation bar */
 navbar a {
   float: left;
-  display: block;
+  display: inline-block;
+  padding: 5px 0;
+  width: 20%;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
