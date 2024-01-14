@@ -7,3 +7,11 @@ h1 {
 p {
   color: black;
 }
+
+
+
+
+#map {
+    height: 400px;
+    width: 100%;
+}
