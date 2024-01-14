@@ -1,10 +1,10 @@
 
-.body {
+body {
 font-family: 'Roboto', sans-serif;
 }
 
 
-.h1 {
+h1 {
   font-family: 'Bebas Neue', sans-serif;
   text-align: center;
   color: black;
@@ -12,11 +12,11 @@ font-family: 'Roboto', sans-serif;
   border: none;
 }
 
-.p {
+p {
   color: black;
 }
 
-.navbar {
+navbar {
   background-color: #FFFFFF;
   overflow: hidden;
   width: 700px;
@@ -24,7 +24,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 /* Style the links inside the navigation bar */
-.navbar a {
+navbar a {
   float: center;
   display: block;
   color: #f2f2f2;
@@ -41,13 +41,13 @@ font-family: 'Roboto', sans-serif;
 }
 
 /* Add an active class to highlight the current page */
-.navbar a.active {
+navbar a.active {
   background-color: #04AA6D;
   color: white;
 }
 
 
-.map {
+map {
     height: 400px;
     width: 100%;
 }
