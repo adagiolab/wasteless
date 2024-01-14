@@ -1,21 +1,21 @@
 
-body {
-  font-family: 'Roboto', sans-serif;
+.body {
+font-family: 'Roboto', sans-serif;
 }
 
 
-h1 {
-  color: blue;
+.h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+  color: black;
   background-color: white;
   border: none;
 }
 
-p {
+.p {
   color: black;
 }
 
-
-/* Add a black background color to the top navigation */
 .navbar {
   background-color: #FFFFFF;
   overflow: hidden;
@@ -25,7 +25,7 @@ p {
 
 /* Style the links inside the navigation bar */
 .navbar a {
-  float: left;
+  float: center;
   display: block;
   color: #f2f2f2;
   text-align: center;
