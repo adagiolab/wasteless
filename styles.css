@@ -20,8 +20,12 @@ p {
 navbar {
   background-color: #FFFFFF;
   overflow: hidden;
-  width: 700px;
+  width: 100%;
+  position: relative;
   margin: auto;
+  padding: 0;
+  text-align: center;
+  
 }
 
 /* Style the links inside the navigation bar */
